@@ -1,0 +1,3 @@
+hello ms
+lets hashing this file with SHA-256
+make a change for this.
