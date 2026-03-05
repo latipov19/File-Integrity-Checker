@@ -59,4 +59,5 @@ This project helps understand:
 **Bekmurod G'ofurov**<br>
 **Shoxruh Latipov**<br>
 **Shirinhon Bahodirova**<br>
-**Oyazimhon Abdumalikova**
+**Oyazimhon Abdumalikova**<br>
+**Roziyabegim Isomidinova**
