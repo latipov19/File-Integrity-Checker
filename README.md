@@ -54,9 +54,9 @@ This project helps understand:
 
 ---
 
-## Team me
+## Team members:
 
-**Bekmurod G'ofurov**
-**Shoxruh Latipov**
-**Shirinhon Bahodirova**
+**Bekmurod G'ofurov**<br>
+**Shoxruh Latipov**<br>
+**Shirinhon Bahodirova**<br>
 **Oyazimhon Abdumalikova**
